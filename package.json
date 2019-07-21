@@ -1,0 +1,15 @@
+{
+   "name": "js-interview-snake",
+   "version": "1.0.0",
+   "description": "",
+   "main": "dist/index.js",
+   "devDependencies": {
+      "webpack": "^4.10.2",
+      "webpack-cli": "^3.2.3"
+   },
+   "scripts": {
+      "start": "npx webpack --config webpack.config.js"
+   },
+   "author": "",
+   "license": "ISC"
+}
